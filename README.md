@@ -1,7 +1,4 @@
 # my-project
-好的，以下是完整的README.md文件，使用Markdown格式：
-
-```markdown
 # 📚 图书馆管理系统 (Library Management System)
 
 一个基于Java Web的完整图书管理系统，支持图书管理、借阅归还、用户管理等核心功能。
